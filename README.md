@@ -28,21 +28,21 @@ As a way to better support local communities and make the Reps program a more re
 * **Region 4**
     * Daniele Scasciafratte 
 * **Region 5**
-    * Mahmood Qudah (@qudahmahmood)
-    * Amine Zaafouri (@Zaafouri)
+    * Mahmood Qudah
+    * Amine Zaafouri
 * **Region 6**
-    * M'man Ange Manuela Kouadio (@m_kouadio)
-    * Omotayo Fagbohun (@tayofag09)
+    * M'man Ange Manuela Kouadio
+    * Omotayo Fagbohun
 * **Region 7**
-    * Mariot Tsitoara (@mariot_tsitoara)
-    * Sandraghassen Subbaraya Pillai (@spillai10)
+    * Mariot Tsitoara
+    * Sandraghassen Subbaraya Pillai
 * **Region 8**
-    * Hossain Al Ikram (@IKRAM)
-    * Irvin Chen (@irvin)
+    * Hossain Al Ikram
+    * Irvin Chen
 * **Region 9**
-    * Sayak Sarkar (@sayak)
-    * Shagufta Gurmukhdas (@shaguftamethwani)
+    * Sayak Sarkar
+    * Shagufta Gurmukhdas
 * **Region 10**
-    * Kathrine Faye Tandog (@fayetandog)
-    * Joshua Rubin (@oshrubin)
+    * Kathrine Faye Tandog
+    * Joshua Rubin
 
