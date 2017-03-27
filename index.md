@@ -10,5 +10,5 @@ Here is the most updated info about resources, tools, objectives, etc. If you se
 ## Mozilla Campaigns
 
 **Mozactivate**
-[Roadmap](https://activate.mozilla.community/roadmap/)
-[Activate Campaigns](https://activate.mozilla.community/)
+* [Roadmap](https://activate.mozilla.community/roadmap/)
+* [Activate Campaigns](https://activate.mozilla.community/)
