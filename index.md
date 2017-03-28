@@ -7,6 +7,7 @@ Here is the most updated info about resources, tools, objectives, etc. If you se
 
 ## Useful Resources
 * Open Innovation Quarterly Goals
+
 **2017-Q2**
 
 ## Books
